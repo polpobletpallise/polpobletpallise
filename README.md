@@ -23,7 +23,7 @@
 
 ### 🛠️ Familiar With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,wordpress" alt="Familiar With" />
+  <img src="https://skillicons.dev/icons?i=react" alt="Familiar With" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
@@ -33,7 +33,7 @@
 
 ### 📚 Basic / Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,python,git,astro,php,laravel,spring,mongodb,mysql,supabase,java,vercel,electron,nodejs" alt="Basic Skills" />
+  <img src="https://skillicons.dev/icons?i=r,python,git,astro,php,laravel,spring,mongodb,mysql,supabase,java,vercel,electron,nodejs,wordpress" alt="Basic Skills" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
